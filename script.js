@@ -228,7 +228,7 @@ digitar();
 
 escrever(
 "texto",
-"Eu não sei quando aconteceu, mas aos poucos você foi ficando alguém especial. Seu jeito fofo, engraçado e essa energia incrível fizeram eu reparar em você ❤️"
+"Eu não sei quando aconteceu, mas aos poucos você foi ficando alguém especial. Seu jeito fofo, engraçado e essa energia incrível fizeram eu gostar de você ❤️"
 );
 
 
