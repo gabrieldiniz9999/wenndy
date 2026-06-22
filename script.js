@@ -228,7 +228,7 @@ digitar();
 
 escrever(
 "texto",
-"Eu não sei quando aconteceu, mas aos poucos você foi ficando alguém especial. Seu jeito fofo, engraçado e essa energia incrível fizeram eu gostar de você ❤️"
+"Desde o dia que nós nos conhecemos, eu sentir um carinho muito grande por você. Desde então eu fico lhe admirando sem parar, penso em você toda hora, fico pensando nos dias que nós se encontramos pessoalmente, do calor do seu abraço, do brilho dos seus olhos, do seu cheiro, de quando eu levei você até a sua casa, apostamos corrida kakkaaka, e fico lembrando o quanto você é incrível. Você se tornou muito especial pra mim, você é incrível, engraçada, maravilhosa, muito linda, e baste inteligente. Você sempre vai morar no meu coração, você é tudo pra mim, minha vida, minha inspiração e meu ponto seguro. Sempre que eu estou com você eu esqueço de tudo, passado, futuro, foco só em você❤️"
 );
 
 
@@ -301,7 +301,7 @@ document.getElementById("mensagemFinal").style.display="block";
 
 escrever(
 "finalTexto",
-"Wenndy, eu fiz isso para você guardar um pedacinho do carinho que eu sinto. Obrigado por ser essa pessoa incrível. Espero continuar vendo seu sorriso por muito tempo ❤️ \nEu te Amo❤️"
+"Bê, eu fiz isso para você guardar um pedacinho do carinho que eu sinto. Obrigado por ser essa pessoa incrível e ter aparecido na minha vida, você é muito especial. Espero que Deus possa deixar eu estar do seu lado sempre, espero continuar tendo a sua companhia e os seus carinhos ❤️\n Eu te Amo❤️"
 );
 
 
