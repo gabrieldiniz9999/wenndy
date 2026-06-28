@@ -366,3 +366,14 @@ c.remove();
 
 
 },300);
+
+
+// CONTADOR DE VISITAS ❤️
+
+fetch("https://api.countapi.xyz/hit/wenndy-presente/visitas")
+.then(res => res.json())
+.then(data => {
+
+document.getElementById("contadorVisitas").innerHTML = data.value;
+
+});

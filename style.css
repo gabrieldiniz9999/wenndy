@@ -687,3 +687,29 @@ padding:20px;
 
 
 }
+
+
+.visitas{
+
+margin-top:30px;
+
+padding:20px;
+
+background:rgba(255,255,255,.12);
+
+border-radius:20px;
+
+box-shadow:0 0 20px #ff4f8b;
+
+font-size:18px;
+
+}
+
+
+.visitas span{
+
+font-size:35px;
+
+color:#ff9ac4;
+
+}
